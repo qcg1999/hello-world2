@@ -1,0 +1,66 @@
+4737 0300 3435 2814
+
+https://washington.zoom.us/my/shanest
+
+set PYTHONPATH=C:\Users\Charlie\Documents\_UW\_Ling600_Project\SimInf_DEV_2020_07_07.2\Code
+
+set PYTHONPATH=C:\Users\Charlie\Documents\_UW\_Ling600_Project\SimInf_DEV
+set PYTHONPATH=C:\Users\Charlie\Documents\_UW\_Ling600_Project\SimInf_DEV\siminfquant 
+
+python Code/IndividualQuantifiers/generate.py --setup ExperimentSetups/Logical.json --max_quantifier_length 2 --model_size 2
+
+C:\Users\Charlie\Documents\_UW\_Ling600_Project\SimInf_DEV\ExperimentSetups\Logical.json
+set PYTHONPATH=C:\Users\Charlie\Documents\_UW\_Ling600_Project\SimInf_DEV\Code  #working
+python Code/IndividualQuantifiers/generate.py ExperimentSetups/Logical.json 2 2
+
+conda deactivate
+
+ping patas.ling.washington.edu  (OK)
+
+patas.ling.washington.edu
+
+conda create --name siminf python=3.7
+conda activate siminf
+conda install --file requirements.txt -c conda-forge
+
+set PYTHONPATH=Code	(used in Windows)
+export PYTHONPATH=Code    (used in linux)
+
+print('__file__={0:<35} | __name__={1:<20} | __package__={2:<20}'.format(__file__,__name__,str(__package__)))
+
+
+sys.path.append("..")
+
+python Code.IndividualQuantifiers.generate.py ExperimentSetups/Logical.json 2 2
+
+python Code/IndividualQuantifiers/generate.py ExperimentSetups/Logical.json 2 2
+python Code/IndividualQuantifiers/generate.py ExperimentSetups/Logical.json 12 10
+
+(SimInf) qcg@patas:~/ling600/SimInf_Quantifiers$
+
+C:\ProgramData\Anaconda3\pythonw.exe C:\ProgramData\Anaconda3\cwp.py C:\ProgramData\Anaconda3 C:\ProgramData\Anaconda3\pythonw.exe C:\ProgramData\Anaconda3\Scripts\anaconda-navigator-script.py
+
+
+git clone --single-branch --branch master https://github.com/shanest/SimInf_Quantifiers/
+
+alias ll='ls -alF'
+
+379772504312007
+
+2QE4HXHV
+
+100541
+
+051400549
+1010199638916
+
+1010199638916
+
+
+C:\Users\Charlie\Documents\_UW\_Ling600_Project\SimInf_Quantifiers-master\Code\
+
+
+cloudpickle==1.0.0 
+cycler==0.10.0 
+??
+
